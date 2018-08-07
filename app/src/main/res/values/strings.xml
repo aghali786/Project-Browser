@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rikoshae</string>
+    <string name="refresh">REF</string>
+    <string name="back">BACK</string>
+
+
+    <string name="clear_browsing_data">Clear Browsing Data</string>
+    <string name="remove_selected_item">Remove Selected Items</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="clear_all_history_confirmation_msg">You want to clear complete history?</string>
+</resources>
